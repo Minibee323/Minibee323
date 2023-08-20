@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Minibee323 or Sara T
-- 👀 I’m interested in languages, gadgets, travelling, experiences and music.
+- 👀 I’m interested in languages, travelling,  new experiences and music.
 - 🌱 I’m currently learning coding.
 - 💞️ I’m looking to collaborate on projects in the future when I know what I'm doing.
 - 📫 How to reach me ... tbc

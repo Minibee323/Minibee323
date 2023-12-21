@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Minibee323 or Sara T
 - 👀 I’m interested in languages, travelling,  new experiences and music.
 - 🌱 I’m currently learning coding.
-- 💞️ I’m looking to collaborate on any projects where I can develop my skills.
+- 💞️ I’m looking to collaborate on any projects where I can develop my coding skills.
 - 📫 How to reach me ... tbc
 
 <!---

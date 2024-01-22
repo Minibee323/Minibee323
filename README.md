@@ -9,7 +9,7 @@ Hi, I'm Sara Thampi. I loved coding when I was a child. As an adult I wanted to 
 * 🌍  I'm based in London, UK
 * ✉️  You can contact me at [saraannthampi@gmail.com](mailto:saraannthampi@gmail.com)
 * 🧠  I'm learning React, Python
-* 🤝  I'm open to collaborating on projects that are happy to take me
+* 🤝  I'm open to collaborating on projects that are looking for enthusiastic newbies.
 * ⚡  I love languages, travelling and cooking.
 
 ### Skills

@@ -4,7 +4,7 @@ Hi 👋 My name is Sara Thampi
 Full Stack Developer
 --------------------
 
-Hi, I'm Sara Thampi. I loved coding when I was a child. As an adult I wanted to work on my communication skills so I took jobs in retail and working with the homeless. I couldn't forget how much I enjoyed coding. So I enrolled on a bootcamp with School of Code and learned how to code collaboratively. 
+Hi, I'm Sara Thampi. I loved coding when I was a child. As an adult I wanted to work on my communication skills so I took jobs in retail and with the homeless. I couldn't forget how much I enjoyed coding; So I enrolled on a bootcamp with School of Code and learned how to code collaboratively. 
 
 * 🌍  I'm based in London, UK
 * ✉️  You can contact me at [saraannthampi@gmail.com](mailto:saraannthampi@gmail.com)

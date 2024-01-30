@@ -7,7 +7,7 @@ Full Stack Developer
 Hi, I'm Sara Thampi. I loved coding when I was a child. As an adult I wanted to work on my communication skills so I took jobs in retail and with the homeless. I couldn't forget how much I enjoyed coding; So I enrolled on a bootcamp with School of Code and learned how to problem solve and code collaboratively. 
 
 * 🌍  I'm based in London, UK
-* ✉️  You can contact me at [saraannthampi@gmail.com](mailto:saraannthampi@gmail.com)
+* ✉️  You can contact me at [saraannthampi@outlook.com](mailto:saraannthampi@outlook.com)
 * 🧠  I'm learning React, Python
 * 🤝  I'm open to collaborating on projects that are looking for enthusiastic newbies.
 * ⚡  I love languages, travelling and cooking.

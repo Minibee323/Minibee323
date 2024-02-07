@@ -24,6 +24,15 @@ Hi, I'm Sara Thampi. I loved making programs in GW-Basic and QBasic as a child. 
 
 <p align="left"> <a href="https://www.github.com/SaraThampi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/sara-thampi-236267289/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
+### Projects
+#### Awesun (Solar Energy Visualiser)
+
+![image](https://github.com/SaraThampi/SaraThampi/assets/128574441/8916fcfe-e60b-488b-8c30-6220ca36bb86) 
+
+This site shows the UK solar energy visually using data from the University of Sheffield's Solar API. You can view the  production in MegaWatts for the past week or month (half-hourly data 9am to 5pm) or for the previous year (data from 2pm each day). We used a tech stack of Next.js and Tailwind.
+https://solar-energy-alpha.vercel.app/
+
+
 ### Badges
 
 <b>My GitHub Stats</b>

@@ -34,7 +34,7 @@ We designed a website showing the UK solar energy production visually using data
 https://solar-energy-alpha.vercel.app/  \
 https://github.com/SaraThampi/Solar-Energy
 
-#### Home Horizons (Homeless Shelter Staff App)
+#### Home Horizon (Homeless Shelter Staff App)
 
 [![Coders4Change Home Horizons App](https://img.youtube.com/vi/QxMD300peCA/0.jpg)](https://www.youtube.com/watch?v=QxMD300peCA)
 

@@ -29,9 +29,17 @@ Hi, I'm Sara Thampi. I loved making programs in GW-Basic and QBasic as a child. 
 
 ![image](https://github.com/SaraThampi/SaraThampi/assets/128574441/8916fcfe-e60b-488b-8c30-6220ca36bb86) 
 
-This site shows the UK solar energy visually using data from the University of Sheffield's Solar API. You can view the  production in MegaWatts for the past week or month (half-hourly data 9am to 5pm) or for the previous year (data from 2pm each day). We used a tech stack of Next.js and Tailwind.
-https://solar-energy-alpha.vercel.app/
+We designed a website showing the UK solar energy production visually using data from the University of Sheffield's Solar API. You can view the energy produced in MegaWatts for the past week or month (half-hourly data 9am to 5pm) or for the previous year (data from 2pm each day). We used a tech stack of Next.js and Tailwind. \
+(We listened to feedback and have just added clouds!) \
+https://solar-energy-alpha.vercel.app/  \
+https://github.com/SaraThampi/Solar-Energy
 
+#### Home Horizons (Homeless Shelter Staff App)
+
+[![Coders4Change Home Horizons App](https://img.youtube.com/vi/QxMD300peCA/0.jpg)](https://www.youtube.com/watch?v=QxMD300peCA)
+
+As a team of six we designed an app to assist homeless shelter staff with sharing and recording data about service users. As someone who works with the homeless, this app fulfils a desperate need (funding is limited) and I wish that some time in the future we can complete it! \
+https://github.com/SaraThampi/shelterapp
 
 ### Badges
 

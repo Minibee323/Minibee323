@@ -8,7 +8,7 @@ Hi, I'm Sara Thampi. I loved making programs in GW-Basic and QBasic as a child. 
 
 * 🌍  I'm based in London, UK
 * ✉️  You can contact me at [saraannthampi@outlook.com](mailto:saraannthampi@outlook.com)
-* 🧠  I'm learning React, Python
+* 🧠  I'm learning React, Python, Django
 * 🤝  I'm open to collaborating on projects that are looking for enthusiastic newbies.
 * ⚡  I love languages, travelling and cooking.
 

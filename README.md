@@ -29,7 +29,7 @@ Hi, I'm Sara Thampi. I loved making programs in GW-Basic and QBasic as a child. 
 
 ![image](https://github.com/SaraThampi/SaraThampi/assets/128574441/8916fcfe-e60b-488b-8c30-6220ca36bb86) 
 
-We designed a website showing the UK solar energy production visually using data from the University of Sheffield's Solar API. You can view the energy produced in MegaWatts for the past week or month (half-hourly data 9am to 5pm) or for the previous year (data from 2pm each day). We used a tech stack of Next.js and Tailwind. \
+We designed a website showing the UK solar energy production visually using data from the University of Sheffield's Solar API. You can view the energy produced in MegaWatts for the past week or month (half-hourly data 9am to 5pm) or for the previous year (data recorded at 2pm each day). We used a tech stack of Next.js and Tailwind. \
 (We listened to feedback and have just added clouds!) \
 https://solar-energy-alpha.vercel.app/  \
 https://github.com/SaraThampi/Solar-Energy

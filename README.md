@@ -41,6 +41,15 @@ https://github.com/SaraThampi/Solar-Energy
 As a team of six we designed an app to assist homeless shelter staff with sharing and recording data about service users. As someone who works with the homeless, this app fulfils a desperate need (funding is limited) and I wish that some time in the future we can complete it! \
 https://github.com/SaraThampi/shelterapp
 
+#### CodeCampus Events App
+
+![image](https://github.com/SaraThampi/SaraThampi/assets/128574441/d6ff7e4e-6892-4b3a-abdb-27c181322a9b)
+
+As a team of six we designed an app to tackle networking problems amongst our fellow bootcampers (events had to be posted several times, and still not everyone was informed). We had one week to research and create our MVP. We used a tech stack of Node.js, Express.js, JavaScript, HTML and CSS.
+
+https://github.com/SchoolOfCode/bc15-w8-projects_week-the_byte_stripes-frontend  \
+https://github.com/SchoolOfCode/bc15-w8-projects_week-the_byte_stripes-backend
+
 ### Badges
 
 <b>My GitHub Stats</b>

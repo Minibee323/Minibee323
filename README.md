@@ -41,7 +41,7 @@ https://github.com/SaraThampi/Solar-Energy
 As a team of six we designed an app to assist homeless shelter staff with sharing and recording data about service users. As someone who works with the homeless, this app fulfils a desperate need (funding is limited) and I wish that some time in the future we can complete it! \
 https://github.com/SaraThampi/shelterapp
 
-#### CodeCampus Events App
+#### codeCampus Events App
 
 ![image](https://github.com/SaraThampi/SaraThampi/assets/128574441/d6ff7e4e-6892-4b3a-abdb-27c181322a9b)
 
